@@ -9,7 +9,23 @@ Baba (@bkale) - Express
 Taq (@mottaquikarim) - DB, FE
 
 ## Installation Instructions
+Here's the bare minimum needed to get started on this project. (Assuming you have node.js and git);
 
+### Clone Project
+
+```
+$ git clone [this_repo] && cd [this_repo]
+```
+
+### Install Modules
+```
+$ npm install
+```
+
+### Run Server
+```
+$ npm start
+```
 
 ## API Documentation
 
