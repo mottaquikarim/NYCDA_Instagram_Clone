@@ -4,7 +4,7 @@ This is a group effort led by @mottaquikarim and @bkale of NYCDA. We are impleme
 
 ## Contributors
 
-Baba (@bkale) - Express
+Baba ([@bkale](https://github.com/Bkale)) - Express
 
 Taq (@mottaquikarim) - DB, FE
 
